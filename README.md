@@ -1,4 +1,4 @@
-# dotenv
+# dotalias
 
 Automatically load your project aliases from `.alias` file when you `cd` into project root directory.
 
