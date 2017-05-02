@@ -4,7 +4,10 @@ Automatically load your project aliases from `.alias` file when you `cd` into pr
 
 ## Installation
 
-Just add the plugin to your `.zshrc`:
+Copy the file `dotalias.plugin.zsh` into the `custom/plugins/dotalias` folder of your installation.
+The exact location can be found in `.zshrc` under the `PATH` entry. Usually `~/.oh-my-zsh/custom/plugins`.
+
+Then just add the plugin to your `.zshrc`:
 
 ```sh
 plugins=(git man dotalias)
